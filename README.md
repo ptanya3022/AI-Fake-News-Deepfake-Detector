@@ -16,10 +16,10 @@ With AI-driven insights, this tool analyzes text-based news claims and determine
 #✅ User-Friendly Interface – Built with Streamlit for an intuitive experience.
 
 ## 🚀 Business Impact
-#📌 Reduces misinformation spread by providing instant verification.
-#📌 Empowers users to critically assess news before sharing.
-#📌 Helps organizations and fact-checking agencies streamline their verification process.
-#📌 Supports media houses in analyzing fake news trends.
+-📌 Reduces misinformation spread by providing instant verification.
+-📌 Empowers users to critically assess news before sharing.
+-📌 Helps organizations and fact-checking agencies streamline their verification process.
+-📌 Supports media houses in analyzing fake news trends.
 
 ## 💡 AI Integration
 #🔹 Google Gemini 1.5 Flash – A state-of-the-art AI model that processes news claims and evaluates their authenticity.
