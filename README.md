@@ -60,17 +60,18 @@ With AI-driven insights, this tool analyzes text-based news claims and determine
 ## Live Demo
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Online-blue)](https://ai-fake-news-deepfake-detector-wvaxvntkabkcv5ptnzpd9e.streamlit.app/)
 
-##⚡ Installation & Usage
+##⚡Installation & Usage
 
 1️⃣ Clone the Repository
 git clone https://github.com/ptanya3022/AI-Fake-News-Deepfake-Detector.git
+
 cd AI-Fake-News-Deepfake-Detector
 
 2️⃣ Install Dependencies
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
 3️⃣ Run the Application
-streamlit run app.py
+-streamlit run app.py
 
 
 
