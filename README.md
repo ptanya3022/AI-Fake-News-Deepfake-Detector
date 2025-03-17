@@ -5,6 +5,8 @@ The AI Fake News & Deepfake Detector is an advanced misinformation detection sys
 
 With AI-driven insights, this tool analyzes text-based news claims and determines their credibility, making it a valuable resource for journalists, researchers, and everyday users.
 
+## Live Demo
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Online-blue)](https://ai-fake-news-deepfake-detector-wvaxvntkabkcv5ptnzpd9e.streamlit.app/)
 
 
 ## 🎯 Key Features
@@ -57,8 +59,6 @@ With AI-driven insights, this tool analyzes text-based news claims and determine
 
 🔹 Git & GitHub – Version control
 
-## Live Demo
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Online-blue)](https://ai-fake-news-deepfake-detector-wvaxvntkabkcv5ptnzpd9e.streamlit.app/)
 
 ##⚡Installation & Usage
 
