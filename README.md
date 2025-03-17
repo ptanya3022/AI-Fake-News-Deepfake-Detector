@@ -59,6 +59,7 @@ With AI-driven insights, this tool analyzes text-based news claims and determine
 
 🔹 Git & GitHub – Version control
 
+---
 
 ##⚡Installation & Usage
 
